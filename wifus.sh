@@ -31,7 +31,7 @@ fi
 
 if ["$1" == ""]
 then
-    printf "${WHITE}Desenvolvido por PatrickPanico Modo de uso: $0 Interface de rede\n${WHITE}";
+    printf "${WHITE}Desenvolvido por Valurk Modo de uso: $0 Interface de rede\n${WHITE}";
     sleep 2
     exit
 fi
